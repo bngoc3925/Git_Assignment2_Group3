@@ -1,1 +1,2 @@
 Hien thi danh sach tai khoan nguoi dung
+Ghi chu: Chi tai khoan Admin moi duoc truy cap
