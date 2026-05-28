@@ -1,3 +1,0 @@
-Create Username and Password fields for UI.
-Guideline: Enter valid email and at least 8 characters for password.
-Fix: Password validation now checks for special characters.
